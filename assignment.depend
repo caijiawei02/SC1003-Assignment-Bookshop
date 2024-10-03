@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700043951 source:c:\users\jia wei\onedrive - nanyang technological university\notes and tutorials\sc1003\c tut\assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
